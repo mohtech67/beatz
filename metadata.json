@@ -1,0 +1,6 @@
+{
+  "name": "Bidii SDA Church Management System",
+  "description": "Enterprise-grade Church Management System for Bidii Seventh-day Adventist Church featuring dual-login authentication (Admin/Staff & Member), treasury, tithes & offerings, pledges, digital receipts, asset management, announcements, gallery, audit logs, analytics, and SQL schema exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
